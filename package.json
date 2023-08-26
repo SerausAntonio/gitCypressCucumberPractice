@@ -1,0 +1,14 @@
+{
+  "name": "cucumber",
+  "version": "1.0.0",
+  "description": "Cucumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"Hallo Antonio how are you?\""
+  },
+  "author": "Antonio Seraus",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.17.4"
+  }
+}
